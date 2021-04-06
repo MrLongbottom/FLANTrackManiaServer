@@ -1,0 +1,98 @@
+[2018/03/06 09:29:29] ========== Server started. ==========
+[2018/03/06 09:29:29] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 09:29:34] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 09:30:02] <time> [groomtar (groomtar)] 0:00.00
+[2018/03/06 09:30:03] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 09:30:09] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 10:09:09] ========== Server started. ==========
+[2018/03/06 10:09:09] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 10:09:14] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 10:47:22] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$fffJfreu$z$s$39f's plugin $z$s$ff00.14$z$s$39f: $z$s$fffLoaded$z$s$39f.
+[2018/03/06 10:47:22] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$39fRankLimit: $z$s$fffOFF$z$s$39f.
+[2018/03/06 10:51:07] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$fffJfreu$z$s$39f's plugin $z$s$ff00.14$z$s$39f: $z$s$fffLoaded$z$s$39f.
+[2018/03/06 10:51:07] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$39fRankLimit: $z$s$fffOFF$z$s$39f.
+[2018/03/06 10:51:07] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fThis XASECO version $fff1.16$39f is up to date
+[2018/03/06 10:51:07] <chat> [flan_server (FLAN TrackMania)] $ff0*** XASECO $fffv1.16$ff0 running on $fff127.0.0.1$ff0:$fff5000$ff0 ***
+[2018/03/06 10:51:08] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fLocal Record rankings on $fffBIGF$39f before this round: no records!
+[2018/03/06 11:00:26] ========== Server started. ==========
+[2018/03/06 11:00:26] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 11:00:31] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 11:00:44] <time> [groomtar (groomtar)] 0:00.00
+[2018/03/06 11:00:44] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 11:00:50] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 11:01:39] <time> [groomtar (groomtar)] 0:45.98
+[2018/03/06 11:01:40] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 11:01:48] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/06 11:01:58] ========== Server started. ==========
+[2018/03/06 11:01:58] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 11:03:22] <time> [groomtar (groomtar)] 0:54.70
+[2018/03/06 11:05:25] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 11:05:34] <chat> [groomtar (groomtar)] Hey
+[2018/03/06 11:05:47] <chat> [krzychor ($n$E70Κ$D80Ŗ$C90Ζ$BA0Ŷ$AB0С$9C0Н$8D0Θ$7E0Я)] hello
+[2018/03/06 11:06:05] <chat> [groomtar (groomtar)] This is just a server that is up to do some testing :) 
+[2018/03/06 11:06:18] <chat> [groomtar (groomtar)] So the map is shit, and the server will be shutdown again soon 
+[2018/03/06 11:06:49] <time> [groomtar (groomtar)] 1:10.02
+[2018/03/06 11:07:24] <time> [krzychor ($n$E70Κ$D80Ŗ$C90Ζ$BA0Ŷ$AB0С$9C0Н$8D0Θ$7E0Я)] 0:48.26
+[2018/03/06 11:07:44] <time> [groomtar (groomtar)] 0:14.30
+[2018/03/06 11:07:53] <chat> [krzychor ($n$E70Κ$D80Ŗ$C90Ζ$BA0Ŷ$AB0С$9C0Н$8D0Θ$7E0Я)] okay
+[2018/03/06 11:08:38] <time> [groomtar (groomtar)] 0:48.36
+[2018/03/06 11:08:39] <chat> [krzychor ($n$E70Κ$D80Ŗ$C90Ζ$BA0Ŷ$AB0С$9C0Н$8D0Θ$7E0Я)] you cutting ;-(
+[2018/03/06 11:08:49] <chat> [groomtar (groomtar)] The map is not finished :D 
+[2018/03/06 11:08:58] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 11:09:06] <chat> [groomtar (groomtar)] We are going to run a tournament at a LAN 
+[2018/03/06 11:09:09] <chat> [groomtar (groomtar)] y
+[2018/03/06 11:09:18] <chat> [groomtar (groomtar)] So are just testing a few things :D 
+[2018/03/06 11:09:27] <chat> [groomtar (groomtar)] But it will be shut down again now :) 
+[2018/03/06 11:13:40] ========== Server started. ==========
+[2018/03/06 11:13:40] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 11:15:45] <time> [groomtar (groomtar)] 0:46.75
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$fffJfreu$z$s$39f's plugin $z$s$ff00.14$z$s$39f: $z$s$fffLoaded$z$s$39f.
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$39fRankLimit: $z$s$fffOFF$z$s$39f.
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fThis XASECO version $fff1.16$39f is up to date
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $f00Welcome $fffgroomtar$f00 to $fffFLAN TrackMania$z$s $f00This server uses $fff$l[http://www.gamers.org/tmn/]XASECO v1.16$l$f00 to manage your records.
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $39fLocal Record rankings on $fffundefined$39f before this round: no records!
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $0f3You must have $fff3$0f3 Local Records on this server before recieving a rank...
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $f00$iYou don't have a Local Record on this track yet...
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0*** XASECO $fffv1.16$ff0 running on $fff127.0.0.1$ff0:$fff5000$ff0 ***
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $f00$iYou don't have a Local Record on this track yet...
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $ff0Current Track Karma: $fff0 $n$ff0[++: $fff0$ff0 ($fff0%$ff0), --: $fff0$ff0 ($fff0%$ff0)] $n$ff0$i{Your vote:  $fff$inone$ff0$i}
+[2018/03/06 11:15:52] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fLocal Record rankings on $fffBIGF$39f before this round: no records!
+[2018/03/06 11:25:41] <time> [groomtar (groomtar)] 0:13.98
+[2018/03/06 11:25:41] <chat> [flan_server (FLAN TrackMania)] $ff0>> $fffgroomtar$0f3 claimed the $ff31$0f3. Local Record!  Time: $fff0:13.98
+[2018/03/06 11:26:13] ========== Server started. ==========
+[2018/03/06 11:26:13] Loading challenge BIGF.Challenge.Gbx (4i0ZWnH4x8Qb2NTia78daewVpA7)...
+[2018/03/06 11:26:21] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$fffJfreu$z$s$39f's plugin $z$s$ff00.14$z$s$39f: $z$s$fffLoaded$z$s$39f.
+[2018/03/06 11:26:21] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$39fRankLimit: $z$s$fffOFF$z$s$39f.
+[2018/03/06 11:26:21] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fThis XASECO version $fff1.16$39f is up to date
+[2018/03/06 11:26:21] <chat> [flan_server (FLAN TrackMania)] $ff0*** XASECO $fffv1.16$ff0 running on $fff127.0.0.1$ff0:$fff5000$ff0 ***
+[2018/03/06 11:26:22] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fLocal Record rankings on $fffBIGF$39f before this round (range $fff0.00$39f): $n$ff31$39f.$bbbgroomtar$39f[$bbb0:13.98$39f]
+[2018/03/09 18:44:04] ========== Server started. ==========
+[2018/03/09 18:44:04] Loading challenge BIGF.Challenge.Gbx (IET_5d_0Qs3oH_5llx2Q2qZWsqi)...
+[2018/03/09 19:17:09] ========== Server started. ==========
+[2018/03/09 19:17:09] Loading challenge C01-Race.Challenge.Gbx (eDgWjoKe2dT3GfoTCGCmI_qMvfk)...
+[2018/03/09 19:17:14] <time> [flan_server (FLAN TrackMania)] 0:00.00
+[2018/03/09 19:17:27] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$fffJfreu$z$s$39f's plugin $z$s$ff00.14$z$s$39f: $z$s$fffLoaded$z$s$39f.
+[2018/03/09 19:17:27] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$39fRankLimit: $z$s$fffOFF$z$s$39f.
+[2018/03/09 19:17:27] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fThis XASECO version $fff1.16$39f is up to date
+[2018/03/09 19:17:27] <chat> [flan_server (FLAN TrackMania)] $ff0*** XASECO $fffv1.16$ff0 running on $ffflocalhost$ff0:$fff5000$ff0 ***
+[2018/03/09 19:17:28] <chat> [flan_server (FLAN TrackMania)] $ff0>> $0f3TMX World Record: $fff0:26.68$0f3 by $fffKarjeN
+[2018/03/09 19:17:28] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fLocal Record rankings on $fff$l[http://tmnforever.tm-exchange.com/main.aspx?action=trackshow&id=2328]C01-Race$l$39f before this round: no records!
+[2018/03/09 19:20:23] ========== Server started. ==========
+[2018/03/09 19:20:23] Loading challenge BIGF.Challenge.Gbx (IET_5d_0Qs3oH_5llx2Q2qZWsqi)...
+[2018/03/09 19:20:32] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$fffJfreu$z$s$39f's plugin $z$s$ff00.14$z$s$39f: $z$s$fffLoaded$z$s$39f.
+[2018/03/09 19:20:32] <chat> [flan_server (FLAN TrackMania)] $z$s$ff0>> $z$s$39fRankLimit: $z$s$fffOFF$z$s$39f.
+[2018/03/09 19:20:33] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fThis XASECO version $fff1.16$39f is up to date
+[2018/03/09 19:20:33] <chat> [flan_server (FLAN TrackMania)] $ff0*** XASECO $fffv1.16$ff0 running on $ffflocalhost$ff0:$fff5000$ff0 ***
+[2018/03/09 19:20:33] <chat> [flan_server (FLAN TrackMania)] $ff0>> $39fLocal Record rankings on $fffBIGF$39f before this round: no records!
+[2018/03/09 19:21:52] <chat> [flan_server (FLAN TrackMania)] $f00Welcome $fffgroomtar$f00 to $fffFLAN TrackMania$z$s $f00This server uses $fff$l[http://www.gamers.org/tmn/]XASECO v1.16$l$f00 to manage your records.
+[2018/03/09 19:21:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $39fLocal Record rankings on $fffBIGF$39f before this round: no records!
+[2018/03/09 19:21:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $0f3You must have $fff3$0f3 Local Records on this server before recieving a rank...
+[2018/03/09 19:21:52] <chat> [flan_server (FLAN TrackMania)] $ff0> $f00$iYou don't have a Local Record on this track yet...
+[2018/03/09 19:21:52] <chat> [flan_server (FLAN TrackMania)] $ff0>> $z$s$39fNew Player: $fffgroomtar$z$s$39f Nation: $fffDenmark$39f Ladder: $fff3$n $m014$n $m927$39f Server: $fffNone
+[2018/03/09 19:22:51] <time> [groomtar (groomtar)] 0:47.68
+[2018/03/09 19:22:51] <chat> [flan_server (FLAN TrackMania)] $ff0>> $fffgroomtar$0f3 claimed the $ff31$0f3. Local Record!  Time: $fff0:47.68
+[2018/03/09 19:23:49] <time> [groomtar (groomtar)] 0:49.83
+[2018/03/09 19:23:55] <chat> [flan_server (FLAN TrackMania)] $ff0>> $fffgroomtar$z$s$39f has left the game. Played: $fff00:02:03
+[2021/04/06 14:34:05] ========== Server started. ==========
+[2021/04/06 14:34:05] Loading challenge BIGF.Challenge.Gbx (IET_5d_0Qs3oH_5llx2Q2qZWsqi)...
+[2021/04/06 14:35:51] <time> [gris3310 (gris3310)] 0:52.81
